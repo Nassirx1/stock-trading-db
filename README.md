@@ -148,14 +148,9 @@ DELIMITER ;
 ## Usage
 - Run queries on the database to track stock deals, investor portfolios, and market analytics.
 
-## Contribution
-Feel free to fork the repository and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
 
 ---
-Developed by **OVM** and **NASSIR**.
+Developed by **OVM** and **Nassir**.
 
 GitHub Account: [https://github.com/Nassirx1](https://github.com/Nassirx1)
 
