@@ -155,7 +155,7 @@ Feel free to fork the repository and submit pull requests.
 This project is licensed under the MIT License.
 
 ---
-Developed by **OVM** and **Nasser**.
+Developed by **OVM** and **NASSIR**.
 
 GitHub Account: [https://github.com/Nassirx1](https://github.com/Nassirx1)
 
